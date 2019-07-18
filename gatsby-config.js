@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Overreacted',
-    author: 'Dan Abramov',
-    description: 'Personal blog by Dan Abramov. I explain with words and code.',
-    siteUrl: 'https://overreacted.io',
+    title: 'nuffshoptalk',
+    author: 'Connor Bradley',
+    description: 'Personal blog by Connor Bradley. I explain with words and code.',
+    siteUrl: 'https://nuffshoptalk.com',
     social: {
-      twitter: '@dan_abramov',
+      twitter: '@_connorb',
     },
   },
   pathPrefix: '/',
@@ -126,7 +126,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Dan Abramov's Overreacted Blog RSS Feed",
+            title: "Connor Bradley's Blog RSS Feed",
           },
         ],
       },
@@ -134,8 +134,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Overreacted`,
-        short_name: `Overreacted`,
+        name: `nuffshoptalk`,
+        short_name: `nuffshoptalk`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffa7c4`,

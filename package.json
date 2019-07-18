@@ -1,9 +1,9 @@
 {
-  "name": "overreacted",
+  "name": "nuffshoptalk",
   "private": true,
-  "description": "Overreacted",
+  "description": "nuffshoptalk",
   "version": "1.0.0",
-  "author": "Dan Abramov <dan.abramov@me.com>",
+  "author": "Connor Bradley <connor.g.bradley@gmail.com>",
   "bugs": {
     "url": "https://github.com/gaearon/overreacted.io/issues"
   },
@@ -45,7 +45,7 @@
     "gh-pages": "^1.2.0",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://overreacted.io",
+  "homepage": "https://nuffshoptalk.com",
   "license": "MIT",
   "scripts": {
     "dev": "gatsby develop",
