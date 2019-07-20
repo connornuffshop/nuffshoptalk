@@ -131,7 +131,7 @@ class BlogPostTemplate extends React.Component {
       enSlug.length - 1
     )}/index${lang === 'en' ? '' : '.' + lang}.md`;
     const discussUrl = `https://mobile.twitter.com/search?q=${encodeURIComponent(
-      `https://overreacted.io${enSlug}`
+      `https://nuffshoptalk.com${enSlug}`
     )}`;
 
     return (
@@ -197,11 +197,11 @@ class BlogPostTemplate extends React.Component {
               style={{
                 boxShadow: 'none',
                 textDecoration: 'none',
-                color: 'var(--pink)',
+                color: 'rgb(243, 152, 132)',
               }}
               to={'/'}
             >
-              Overreacted
+              nuffshoptalk
             </Link>
           </h3>
           <Bio />
