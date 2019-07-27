@@ -54,7 +54,6 @@ class Translations extends React.Component {
                   <br />
                 </span>
               )}
-              <span>Translated by readers into: </span>
               {readerTranslations.map((l, i) => (
                 <React.Fragment key={l}>
                   {l === lang ? (
