@@ -68,3 +68,5 @@ Now, our team continues to be a data-focused team taking an experimental approac
 We’re still trying to figure this out…and we will continue to play with different ways to evaluate & optimize our experimental process. At the end of the day, get out and learn. Be honest about your approach and transparent with your results. 
 
 In B2B, we can’t solely rely on statistical significance to make proper decisions. Why fight it? Use it when you can, forget it when it doesn’t. All we can do is try to make the best decision possible with the variables we are given. 
+
+---
