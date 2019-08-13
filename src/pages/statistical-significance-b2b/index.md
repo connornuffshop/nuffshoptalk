@@ -35,7 +35,7 @@ Sounds good, right? One problem, our trusty sample size calculator continuously 
 
 >"Buzz, your sample size" 
 
-![Home Alone Woof](./woof.gif)
+![Home Alone Wooff](./woof.gif)
 
 So what does a savvy growth person do? 
 
