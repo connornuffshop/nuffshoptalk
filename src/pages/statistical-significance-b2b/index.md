@@ -1,6 +1,6 @@
 ---
 title: Statistical Significance in the World of B2B SaaS
-date: '2019-08-11'
+date: '2019-09-04'
 spoiler: Are you crying over a panel of B2C growth experts chatting about their AB tests? Me too. 
 ---
 
